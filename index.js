@@ -69,6 +69,6 @@ function shareURL() {
   
 function shareMessage() {
     Kakao.Share.sendScrap({
-        requestUrl: "https://transcendent-brigadeiros-e7ea88.netlify.app",
+        requestUrl: "https://seokyung22.github.io/seokyung.MBTI_test",
     });
 }
